@@ -1,9 +1,9 @@
-**Lab 4: Azure Virtual Network Peering**
+# Lab 4: Azure Virtual Network Peering
 
-**🎯 Objective**
+## 🎯 Objective
 Establish bidirectional peering between two Azure Virtual Networks using PowerShell, verify connectivity, and confirm synchronization in the Azure portal.
 
-**⚙️ Resources Deployed**
+## **⚙️ Resources Deployed**
 
 Resource Group: rg-vnet-peering-lab
 
